@@ -1,3 +1,3 @@
 # vpython_2022
 
-Brian's VPython homework
+Brian Yuan's VPython homework
